@@ -1,0 +1,7 @@
+
+# Requirements for Password_Strength_Checker
+
+# Main dependencies
+zxcvbn
+
+# Tkinter is included with Python installations; no separate installation needed.
