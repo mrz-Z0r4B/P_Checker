@@ -18,15 +18,3 @@ Clone the repository using the following command:
 ```bash
 git clone https://github.com/mrz-Z0r4B/P_Checker.git
 cd P_Checker
-
-
-Step 2: Install Python
-Ensure that Python is installed on your system. You can download it from the official Python website. Follow the instructions for your operating system.
-
-
-Step 3: Install Tkinter
-If Tkinter is not already installed, you can install it using the following command:
-
-For Ubuntu/Debian:
-sudo apt-get install python3-tk
-For Windows, Tkinter comes bundled with Python installations.
