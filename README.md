@@ -7,6 +7,7 @@
 - Color-coded visual strength meter
 - Feedback and suggestions for creating stronger passwords
 - Dark-themed user interface for enhanced visibility
+- Integration with **zxcvbn** for more accurate password strength estimates
 
 ## Screenshot
 ![Screenshot](link_to_your_screenshot)  <!-- Replace with an actual link if you have a screenshot -->
@@ -18,3 +19,6 @@ Clone the repository using the following command:
 ```bash
 git clone https://github.com/mrz-Z0r4B/P_Checker.git
 cd P_Checker
+
+### Step 2: Install Python
+Ensure that Python is installed on your system. You can download it from the official Python website. Follow the instructions for your operating system.
