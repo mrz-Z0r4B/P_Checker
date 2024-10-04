@@ -1,2 +1,7 @@
-# P_Checker
-Mrz - Advanced Password Strength Checker Tool using Python and Tkinter for GUI. Analyzes password strength based on length, special characters, numbers, and more.
+## Installation Instructions
+
+### Step 1: Clone the Repository
+Clone the repository using the following command:
+```bash
+git clone https://github.com/mrz-Z0r4B/P_Checker.git
+cd P_Checker
