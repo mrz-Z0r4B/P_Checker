@@ -12,8 +12,12 @@
 
 ## Installation Instructions
 
-## Step 1: Clone the Repository
+## Steps: Clone the Repository
 Clone the repository using the following command:
 ```bash
 git clone https://github.com/mrz-Z0r4B/P_Checker.git
 cd P_Checker
+sudo apt-get install python3-tk
+pip install zxcvbn
+pip install -r requirements.txt
+python P_Checker.py
