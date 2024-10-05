@@ -29,12 +29,17 @@ Ensure that Python is installed on your system. You can download it from the off
   - **Windows**: Tkinter is usually included with Python installations.
 
 - To install **zxcvbn**, run the following command:
-  ```bash
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+```bash
   pip install zxcvbn
   ```
 
 ### Step 3: Run the Application
 You can run the application using the following command:
+
 ```bash
 python P_Checker.py
 ```
